@@ -38,6 +38,6 @@ After rigorous EDA and statistical analysis, the following patterns emerged:
 3.  **Run the Notebook:**
     Open `zomato.ipynb` in Jupyter Lab to explore the interactive analysis.
 
-## 📬 Contact
+
 * **Developer:** Dweep Shishodia
 * **Role:** Data Science Undergraduate @ IIT Madras
